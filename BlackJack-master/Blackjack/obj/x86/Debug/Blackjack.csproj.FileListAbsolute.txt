@@ -1,0 +1,5 @@
+\\Prodnasfs2\home2$\ITJ4552\My Documents\Visual Studio 2015\Projects\BlackJack-master\Blackjack\bin\Debug\Blackjack.exe
+\\Prodnasfs2\home2$\ITJ4552\My Documents\Visual Studio 2015\Projects\BlackJack-master\Blackjack\bin\Debug\Blackjack.pdb
+\\Prodnasfs2\home2$\ITJ4552\My Documents\Visual Studio 2015\Projects\BlackJack-master\Blackjack\obj\x86\Debug\Blackjack.csprojResolveAssemblyReference.cache
+\\Prodnasfs2\home2$\ITJ4552\My Documents\Visual Studio 2015\Projects\BlackJack-master\Blackjack\obj\x86\Debug\Blackjack.exe
+\\Prodnasfs2\home2$\ITJ4552\My Documents\Visual Studio 2015\Projects\BlackJack-master\Blackjack\obj\x86\Debug\Blackjack.pdb
